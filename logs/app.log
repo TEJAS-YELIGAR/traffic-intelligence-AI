@@ -1,0 +1,296 @@
+2026-02-15 15:36:31,164 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 15:36:43,219 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 15:36:43,219 - __main__ - INFO - Application initialized successfully
+2026-02-15 15:36:43,222 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 15:36:44,093 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 15:36:45,240 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 15:36:45,240 - __main__ - INFO - Application initialized successfully
+2026-02-15 15:36:45,242 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 15:36:53,256 - __main__ - INFO - Dashboard accessed
+2026-02-15 15:36:53,479 - __main__ - INFO - Dashboard accessed
+2026-02-15 15:36:53,889 - services.time_series_forecaster - WARNING - Insufficient historical data, using default forecast
+2026-02-15 15:36:54,836 - __main__ - INFO - Dashboard accessed
+2026-02-15 15:36:54,934 - services.time_series_forecaster - WARNING - Insufficient historical data, using default forecast
+2026-02-15 15:36:55,264 - __main__ - INFO - Dashboard accessed
+2026-02-15 15:36:55,316 - services.time_series_forecaster - WARNING - Insufficient historical data, using default forecast
+2026-02-15 15:37:03,393 - __main__ - INFO - Dashboard accessed
+2026-02-15 15:37:03,581 - services.time_series_forecaster - WARNING - Insufficient historical data, using default forecast
+2026-02-15 15:37:03,646 - __main__ - INFO - Dashboard accessed
+2026-02-15 15:37:03,681 - services.time_series_forecaster - WARNING - Insufficient historical data, using default forecast
+2026-02-15 15:37:04,091 - __main__ - INFO - Dashboard accessed
+2026-02-15 15:37:04,125 - services.time_series_forecaster - WARNING - Insufficient historical data, using default forecast
+2026-02-15 15:37:04,458 - __main__ - INFO - Dashboard accessed
+2026-02-15 15:37:04,494 - services.time_series_forecaster - WARNING - Insufficient historical data, using default forecast
+2026-02-15 15:37:13,469 - __main__ - INFO - Dashboard accessed
+2026-02-15 15:37:14,839 - services.time_series_forecaster - WARNING - Insufficient historical data, using default forecast
+2026-02-15 15:37:18,240 - __main__ - INFO - Prediction successful: probability=0.520, severity=2
+2026-02-15 15:37:26,348 - __main__ - INFO - Prediction successful: probability=0.560, severity=2
+2026-02-15 15:37:52,314 - __main__ - INFO - Prediction successful: probability=0.660, severity=2
+2026-02-15 15:38:02,752 - __main__ - INFO - Prediction successful: probability=0.660, severity=2
+2026-02-15 15:38:07,088 - __main__ - INFO - Prediction successful: probability=0.660, severity=2
+2026-02-15 15:38:10,525 - __main__ - INFO - Prediction successful: probability=0.660, severity=2
+2026-02-15 15:38:16,664 - __main__ - INFO - Prediction successful: probability=0.660, severity=2
+2026-02-15 15:38:29,512 - __main__ - INFO - Prediction successful: probability=0.660, severity=2
+2026-02-15 15:38:32,909 - __main__ - INFO - Prediction successful: probability=0.660, severity=2
+2026-02-15 15:38:35,937 - __main__ - INFO - Prediction successful: probability=0.660, severity=2
+2026-02-15 15:38:38,541 - __main__ - INFO - Prediction successful: probability=0.660, severity=2
+2026-02-15 15:38:41,960 - __main__ - INFO - Prediction successful: probability=0.660, severity=2
+2026-02-15 15:44:21,820 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 15:44:22,217 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 15:44:22,218 - __main__ - INFO - Application initialized successfully (model load: 397.25ms)
+2026-02-15 15:44:22,240 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 15:44:22,244 - services.geo_service - WARNING - Insufficient data for clustering, using defaults
+2026-02-15 15:44:22,244 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 15:44:22,248 - services.forecasting_service - WARNING - Insufficient historical data for forecaster training
+2026-02-15 15:44:22,250 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 15:44:22,253 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 15:44:25,350 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 15:44:25,780 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 15:44:25,780 - __main__ - INFO - Application initialized successfully (model load: 430.11ms)
+2026-02-15 15:44:25,783 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 15:44:25,786 - services.geo_service - WARNING - Insufficient data for clustering, using defaults
+2026-02-15 15:44:25,787 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 15:44:25,790 - services.forecasting_service - WARNING - Insufficient historical data for forecaster training
+2026-02-15 15:44:25,793 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 15:44:25,795 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 15:44:33,015 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 15:44:35,496 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 15:44:35,499 - __main__ - INFO - Application initialized successfully (model load: 2483.65ms)
+2026-02-15 15:44:35,503 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 15:44:35,511 - services.geo_service - WARNING - Insufficient data for clustering, using defaults
+2026-02-15 15:44:35,512 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 15:44:35,537 - services.forecasting_service - WARNING - Insufficient historical data for forecaster training
+2026-02-15 15:44:35,549 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 15:44:35,561 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 15:44:35,979 - __main__ - INFO - Dashboard accessed
+2026-02-15 15:44:36,327 - __main__ - ERROR - Forecast failed: name 'get_forecaster' is not defined
+Traceback (most recent call last):
+  File "D:\Traffic-Accident-Risk-Prediction\app.py", line 141, in forecast
+    try:
+    
+NameError: name 'get_forecaster' is not defined
+2026-02-15 15:44:41,780 - services.prediction_service - INFO - Prediction: prob=0.600, severity=2, time=232.18ms
+2026-02-15 15:44:43,750 - services.prediction_service - INFO - Prediction: prob=0.520, severity=2, time=223.66ms
+2026-02-15 15:44:45,860 - services.prediction_service - INFO - Prediction: prob=0.640, severity=2, time=197.96ms
+2026-02-15 15:44:47,453 - services.prediction_service - INFO - Prediction: prob=0.600, severity=2, time=294.51ms
+2026-02-15 15:44:48,598 - services.prediction_service - INFO - Prediction: prob=0.600, severity=3, time=307.36ms
+2026-02-15 15:44:49,689 - services.prediction_service - INFO - Prediction: prob=0.600, severity=3, time=268.08ms
+2026-02-15 15:44:50,602 - services.prediction_service - INFO - Prediction: prob=0.640, severity=2, time=204.98ms
+2026-02-15 15:44:51,700 - services.prediction_service - INFO - Prediction: prob=0.620, severity=3, time=147.98ms
+2026-02-15 15:44:52,614 - services.prediction_service - INFO - Prediction: prob=0.560, severity=2, time=242.30ms
+2026-02-15 15:44:53,646 - services.prediction_service - INFO - Prediction: prob=0.520, severity=2, time=141.86ms
+2026-02-15 15:44:59,972 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 15:45:01,709 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 15:45:01,710 - __main__ - INFO - Application initialized successfully (model load: 1738.37ms)
+2026-02-15 15:45:01,720 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 15:45:06,494 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 15:45:06,500 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 15:45:06,521 - services.forecasting_service - WARNING - Insufficient historical data for forecaster training
+2026-02-15 15:45:06,533 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 15:45:06,543 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 15:45:08,827 - services.prediction_service - INFO - Prediction: prob=0.500, severity=2, time=1611.49ms
+2026-02-15 15:45:08,859 - services.prediction_service - INFO - Prediction: prob=0.500, severity=2, time=1834.07ms
+2026-02-15 15:45:08,939 - services.prediction_service - INFO - Prediction: prob=0.520, severity=3, time=1929.14ms
+2026-02-15 15:45:08,941 - services.prediction_service - INFO - Prediction: prob=0.500, severity=2, time=1791.11ms
+2026-02-15 15:45:08,961 - services.prediction_service - INFO - Prediction: prob=0.520, severity=2, time=1924.93ms
+2026-02-15 15:45:09,018 - services.prediction_service - INFO - Prediction: prob=0.500, severity=2, time=1809.84ms
+2026-02-15 15:45:09,684 - services.prediction_service - INFO - Prediction: prob=0.600, severity=2, time=591.22ms
+2026-02-15 15:45:09,704 - services.prediction_service - INFO - Prediction: prob=0.640, severity=2, time=567.43ms
+2026-02-15 15:45:09,725 - services.prediction_service - INFO - Prediction: prob=0.540, severity=3, time=787.10ms
+2026-02-15 15:45:09,741 - services.prediction_service - INFO - Prediction: prob=0.540, severity=3, time=672.42ms
+2026-02-15 15:45:09,765 - services.prediction_service - INFO - Prediction: prob=0.640, severity=2, time=626.31ms
+2026-02-15 15:45:15,604 - services.prediction_service - INFO - Prediction: prob=0.520, severity=2, time=226.92ms
+2026-02-15 15:45:23,306 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 15:45:25,340 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 15:45:25,342 - __main__ - INFO - Application initialized successfully (model load: 2036.75ms)
+2026-02-15 15:45:25,351 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 15:45:27,881 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 15:45:27,882 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 15:45:27,893 - services.forecasting_service - WARNING - Insufficient historical data for forecaster training
+2026-02-15 15:45:27,899 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 15:45:27,912 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 15:45:38,614 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 15:45:40,267 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 15:45:40,269 - __main__ - INFO - Application initialized successfully (model load: 1655.29ms)
+2026-02-15 15:45:40,272 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 15:45:42,775 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 15:45:42,776 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 15:45:42,789 - services.forecasting_service - WARNING - Insufficient historical data for forecaster training
+2026-02-15 15:45:42,800 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 15:45:42,814 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 15:45:43,995 - services.prediction_service - INFO - Prediction: prob=0.580, severity=2, time=160.66ms
+2026-02-15 15:51:18,600 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 15:51:18,970 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 15:51:18,971 - __main__ - INFO - Application initialized successfully (model load: 370.84ms)
+2026-02-15 15:51:18,973 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 15:51:20,950 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 15:51:20,950 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 15:51:20,953 - services.forecasting_service - WARNING - Insufficient historical data for forecaster training
+2026-02-15 15:51:20,955 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 15:51:20,958 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 15:51:23,631 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 15:51:24,704 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 15:51:24,705 - __main__ - INFO - Application initialized successfully (model load: 1073.68ms)
+2026-02-15 15:51:24,708 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 15:51:26,700 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 15:51:26,701 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 15:51:26,714 - services.forecasting_service - WARNING - Insufficient historical data for forecaster training
+2026-02-15 15:51:26,721 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 15:51:26,733 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 15:51:27,056 - __main__ - INFO - Dashboard accessed
+2026-02-15 15:51:48,410 - services.prediction_service - INFO - Prediction: prob=0.540, severity=2, time=115.76ms
+2026-02-15 15:52:01,047 - services.prediction_service - INFO - Prediction: prob=0.500, severity=2, time=134.37ms
+2026-02-15 15:52:05,956 - services.prediction_service - INFO - Prediction: prob=0.500, severity=2, time=117.74ms
+2026-02-15 15:52:08,002 - services.prediction_service - INFO - Prediction: prob=0.540, severity=2, time=107.86ms
+2026-02-15 15:52:09,826 - services.prediction_service - INFO - Prediction: prob=0.520, severity=2, time=113.21ms
+2026-02-15 15:52:11,963 - services.prediction_service - INFO - Prediction: prob=0.560, severity=2, time=116.50ms
+2026-02-15 15:52:16,079 - services.prediction_service - INFO - Prediction: prob=0.500, severity=2, time=225.50ms
+2026-02-15 15:52:20,264 - services.prediction_service - INFO - Prediction: prob=0.560, severity=2, time=111.10ms
+2026-02-15 15:52:22,381 - services.prediction_service - INFO - Prediction: prob=0.540, severity=2, time=114.04ms
+2026-02-15 15:52:23,495 - services.prediction_service - INFO - Prediction: prob=0.520, severity=2, time=121.01ms
+2026-02-15 15:52:42,760 - services.prediction_service - INFO - Prediction: prob=0.660, severity=2, time=120.35ms
+2026-02-15 15:52:57,716 - services.prediction_service - INFO - Prediction: prob=0.660, severity=2, time=110.23ms
+2026-02-15 15:53:18,206 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 15:53:20,302 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 15:53:20,305 - __main__ - INFO - Application initialized successfully (model load: 2098.77ms)
+2026-02-15 15:53:20,314 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 15:53:23,857 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 15:53:23,858 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 15:53:24,115 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 15:53:24,121 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 15:53:24,137 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 15:53:24,501 - __main__ - INFO - Dashboard accessed
+2026-02-15 15:53:31,750 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 15:53:33,569 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 15:53:33,570 - __main__ - INFO - Application initialized successfully (model load: 1820.06ms)
+2026-02-15 15:53:33,575 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 15:53:35,750 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 15:53:35,751 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 15:53:35,974 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 15:53:35,979 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 15:53:35,993 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 15:54:05,126 - services.prediction_service - INFO - Prediction: prob=0.660, severity=2, time=124.34ms
+2026-02-15 15:54:11,913 - services.prediction_service - INFO - Prediction: prob=0.660, severity=2, time=115.56ms
+2026-02-15 15:54:13,987 - __main__ - INFO - Dashboard accessed
+2026-02-15 18:15:53,220 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 18:15:53,754 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 18:15:53,755 - __main__ - INFO - Application initialized successfully (model load: 535.35ms)
+2026-02-15 18:15:53,765 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 18:15:56,630 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 18:15:56,631 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 18:15:56,739 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 18:15:56,742 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 18:15:56,748 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 18:16:00,621 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 18:16:01,065 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 18:16:01,066 - __main__ - INFO - Application initialized successfully (model load: 445.64ms)
+2026-02-15 18:16:01,068 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 18:16:02,634 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 18:16:02,634 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 18:16:02,680 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 18:16:02,683 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 18:16:02,686 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 18:16:07,319 - __main__ - INFO - Dashboard accessed
+2026-02-15 18:16:59,567 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 18:16:59,997 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 18:16:59,998 - __main__ - INFO - Application initialized successfully (model load: 431.32ms)
+2026-02-15 18:16:59,999 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 18:17:02,079 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 18:17:02,080 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 18:17:02,363 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 18:17:02,373 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 18:17:02,399 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 18:17:04,986 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 18:17:05,402 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 18:17:05,403 - __main__ - INFO - Application initialized successfully (model load: 417.18ms)
+2026-02-15 18:17:05,404 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 18:17:07,324 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 18:17:07,325 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 18:17:07,518 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 18:17:07,524 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 18:17:07,533 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 18:17:07,827 - __main__ - INFO - Dashboard accessed
+2026-02-15 18:17:22,292 - services.prediction_service - INFO - Prediction: prob=0.540, severity=2, time=135.34ms
+2026-02-15 18:21:07,457 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 18:21:08,093 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 18:21:08,094 - __main__ - INFO - Application initialized successfully (model load: 636.77ms)
+2026-02-15 18:21:08,099 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 18:21:10,745 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 18:21:10,745 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 18:21:10,819 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 18:21:10,822 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 18:21:10,825 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 18:26:32,783 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 18:26:33,381 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 18:26:33,382 - __main__ - INFO - Application initialized successfully (model load: 598.57ms)
+2026-02-15 18:26:33,383 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 18:26:35,752 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 18:26:35,752 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 18:26:35,800 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 18:26:35,801 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 18:26:35,804 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 18:26:39,071 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 18:26:39,533 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 18:26:39,533 - __main__ - INFO - Application initialized successfully (model load: 462.49ms)
+2026-02-15 18:26:39,535 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 18:26:41,313 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 18:26:41,313 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 18:26:41,373 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 18:26:41,374 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 18:26:41,377 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 18:26:45,448 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 18:26:45,842 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 18:26:45,843 - __main__ - INFO - Application initialized successfully (model load: 394.72ms)
+2026-02-15 18:26:45,844 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 18:26:47,392 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 18:26:47,392 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 18:26:47,442 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 18:26:47,444 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 18:26:47,446 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 18:26:48,217 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 18:26:48,664 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 18:26:48,665 - __main__ - INFO - Application initialized successfully (model load: 448.36ms)
+2026-02-15 18:26:48,667 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 18:26:50,230 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 18:26:50,231 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 18:26:50,281 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 18:26:50,283 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 18:26:50,286 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 18:26:53,700 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 18:26:54,643 - __main__ - INFO - Dashboard accessed
+2026-02-15 18:26:55,768 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 18:26:55,769 - __main__ - INFO - Application initialized successfully (model load: 2069.08ms)
+2026-02-15 18:26:55,773 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 18:26:58,006 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 18:26:58,007 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 18:26:58,268 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 18:26:58,276 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 18:26:58,292 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 18:27:03,652 - services.prediction_service - INFO - Prediction: prob=0.540, severity=2, time=164.30ms
+2026-02-15 18:27:17,791 - services.chat_service - INFO - Processing message: hi...
+2026-02-15 18:27:17,798 - __main__ - INFO - Chat response: action=none
+2026-02-15 18:27:34,930 - services.chat_service - INFO - Processing message: rain...
+2026-02-15 18:27:35,191 - services.prediction_service - INFO - Prediction: prob=0.640, severity=2, time=235.75ms
+2026-02-15 18:27:35,192 - __main__ - INFO - Chat response: action=predict
+2026-02-15 18:27:45,348 - services.chat_service - INFO - Processing message: wheather...
+2026-02-15 18:27:45,350 - __main__ - INFO - Chat response: action=none
+2026-02-15 18:27:58,791 - services.chat_service - INFO - Processing message: yes...
+2026-02-15 18:27:58,793 - __main__ - INFO - Chat response: action=none
+2026-02-15 18:28:20,242 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 18:28:20,266 - services.model_loader - INFO - Loading model from D:\Traffic-Accident-Risk-Prediction\models\ensemble_model.pkl
+2026-02-15 18:28:21,757 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 18:28:21,758 - __main__ - INFO - Application initialized successfully (model load: 1515.67ms)
+2026-02-15 18:28:21,757 - services.model_loader - INFO - Model loaded successfully
+2026-02-15 18:28:21,759 - __main__ - INFO - Application initialized successfully (model load: 1493.41ms)
+2026-02-15 18:28:21,765 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 18:28:21,777 - services.geo_service - INFO - Database initialized at data\predictions.db
+2026-02-15 18:28:24,482 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 18:28:24,483 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 18:28:24,483 - services.geo_service - INFO - Region clusters trained successfully
+2026-02-15 18:28:24,484 - services.prediction_service - INFO - Prediction service initialized
+2026-02-15 18:28:24,689 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 18:28:24,690 - services.forecasting_service - INFO - Forecaster trained successfully
+2026-02-15 18:28:24,694 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 18:28:24,695 - services.anomaly_service - WARNING - Insufficient data for anomaly detector training
+2026-02-15 18:28:24,707 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
+2026-02-15 18:28:24,709 - __main__ - INFO - Starting Flask application on 127.0.0.1:5000
